@@ -59,7 +59,8 @@ Desenvolvimento de um dashboard utilizando Power BI, consolidando dados de taref
 
 <img width="1320" height="734" alt="image" src="https://github.com/user-attachments/assets/13d9a409-850f-4479-a734-c9034ba4988f" />
 
-<img width="1322" height="737" alt="image" src="https://github.com/user-attachments/assets/4c47ec8e-e17b-43f5-abf2-8a13df47c102" />
+<img width="1332" height="746" alt="image" src="https://github.com/user-attachments/assets/8e620912-6d65-45ea-a21e-da766a807ca5" />
+
 
 
 ---
