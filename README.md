@@ -80,5 +80,10 @@ Desenvolvimento de um dashboard utilizando Power BI, consolidando dados de taref
 * Melhor compreensão de métricas ágeis
 * Estruturação de indicadores estratégicos
 
+* ## 🚀 Possíveis melhorias futuras
+- Integração automática com API do Jira
+- Atualização em tempo real dos dados
+- Inclusão de métricas de lead time e cycle time
+
 ---
 
